@@ -1,4 +1,9 @@
 ### Hi there 👋
+<a href="https://sand8594.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
+<a href="sand2038@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhui88&show_icons=true&theme=shadow_blue)
+
 
 <!--
 **juhui88/juhui88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
